@@ -1,0 +1,27 @@
+ToolakuRestAPI/bin
+ToolakuRestAPI/obj
+Toolaku.Business/bin
+Toolaku.Business/obj
+Toolaku.DataAccess/bin
+Toolaku.DataAccess/obj
+Toolaku.Models/bin
+Toolaku.Models/obj
+.vs
+ToolakuAPIV2/ToolakuAPI/ToolakuAPI/bin/
+ToolakuAPIV2/ToolakuAPI/ToolakuAPI/obj/
+ToolakuAPIV2/ToolakuAPI/Toolaku.Models/bin/
+ToolakuAPIV2/ToolakuAPI/Toolaku.Models/obj/
+ToolakuAPIV2/ToolakuAPI/Toolaku.Library/bin/
+ToolakuAPIV2/ToolakuAPI/Toolaku.Library/obj/
+ToolakuAPIV2/ToolakuAPI/Toolaku.DataAccess/bin/
+ToolakuAPIV2/ToolakuAPI/Toolaku.DataAccess/obj/
+ToolakuAPIV2/ToolakuAPI/Toolaku.Business/bin/
+ToolakuAPIV2/ToolakuAPI/Toolaku.Business/obj/
+packages/
+ToolakuV2-API.Tests/obj/
+ToolakuV2-API/obj/
+ToolakuV2-API/bin/
+Toolaku.Library/bin/
+ToolakuV2-API.Tests/bin/
+Toolaku.Library/obj/
+ToolakuV2-API/Properties/PublishProfiles/mytoolapi-dev - Web Deploy.pubxml.user
